@@ -1,0 +1,1 @@
+Соответсвует [STEP-016](https://github.com/sincityview/dof/tree/main/STEP-016)
